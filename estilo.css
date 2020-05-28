@@ -1,0 +1,40 @@
+body {
+    height: 500px;
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+section {
+    background: white;
+    width: 490px;
+    height: 250px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#msg {
+    text-align: center;
+    font-weight: bold;
+}
+
+#icon {
+    width: 200px;
+    height: 200px;
+    margin:  20px 150px;
+    border-radius: 360px ;
+}
